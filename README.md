@@ -1,0 +1,1 @@
+# mule-aws-custom-config-props-provider
